@@ -6,11 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/2D_Pixel_Light/Scenes/Intro.unity
+    guid: edadb42ab924fe145935293a586fa98e
+  - enabled: 1
+    path: Assets/2D_Pixel_Light/Scenes/Select.unity
+    guid: 1d388760853ea4f4789b07408f921db7
+  - enabled: 1
     path: Assets/2D_Pixel_Light/Scenes/Basic.unity
     guid: bb356265201af4d40b05e21e32f76eaf
-  - enabled: 1
-    path: Assets/2D_Pixel_Light/Scenes/Complete.unity
-    guid: c3e82cf2e80ca5542bbc8025185d98c8
   m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 6569832a7e76b4d418bf41fba0914cd0, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

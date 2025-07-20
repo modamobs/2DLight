@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Box
   - Light
+  - FadeImage
   layers:
   - Default
   - TransparentFX
